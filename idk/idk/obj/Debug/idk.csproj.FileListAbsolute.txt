@@ -1,0 +1,10 @@
+G:\PRG\idk\idk\bin\Debug\idk.exe.config
+G:\PRG\idk\idk\bin\Debug\idk.exe
+G:\PRG\idk\idk\bin\Debug\idk.pdb
+G:\PRG\idk\idk\obj\Debug\idk.csprojAssemblyReference.cache
+G:\PRG\idk\idk\obj\Debug\idk.Form1.resources
+G:\PRG\idk\idk\obj\Debug\idk.Properties.Resources.resources
+G:\PRG\idk\idk\obj\Debug\idk.csproj.GenerateResource.cache
+G:\PRG\idk\idk\obj\Debug\idk.csproj.CoreCompileInputs.cache
+G:\PRG\idk\idk\obj\Debug\idk.exe
+G:\PRG\idk\idk\obj\Debug\idk.pdb
